@@ -5,7 +5,7 @@
 //  Created by Thinkful on 12/12/2014.
 //  Copyright (c) 2014 Thinkful. All rights reserved.
 //
-// test 
+// test
 import UIKit
 
 class ViewController: UIViewController, UITextFieldDelegate {
@@ -24,6 +24,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         super.viewDidLoad()
         guessTextField.delegate = self
     }
+    //comment
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
